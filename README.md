@@ -10,10 +10,10 @@ This project will help find investable alphas using machine learning model.
 - [x] Ranking Output
 - [x] switch daily risk free rate to weekly 
 - [x] Plot cumulative return 
-- [x] Fill null values
+- [x] Generate and sort alphas for cryptocurrencies
 
 ### Miscellaneous
 
-- [ ] Add Log Fuction
+- [x] Add Log Fuction
 - [ ] Multithread
 - [ ] API Request Optimize

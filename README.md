@@ -3,12 +3,10 @@ This project will help find investable alphas using machine learning model.
 
 ### Core:
 
-- [x] Data Pull
+- [x] Data Pull - API request to Glassnode and FRED
 - [x] Data Preprocess
-- [x] C5 Factor Build
-- [x] Model Replicate
-- [x] Ranking Output
-- [x] switch daily risk free rate to weekly 
+- [x] Build five new features: SMB, MKT, VAL, NET, MOM
+- [x] Train Linear Regression model
 - [x] Plot cumulative return 
 - [x] Generate and sort alphas for cryptocurrencies
 
